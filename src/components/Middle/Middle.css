@@ -1,0 +1,14 @@
+.middleWrap .card{
+    position: absolute;
+    top: 180px;
+    padding: 10px;
+    left: 50px;
+    background-color: rgb(216, 216, 216);
+}
+
+.h1Middle{
+    position: absolute;
+    top: 100px;
+    left: 38%;
+}
+
